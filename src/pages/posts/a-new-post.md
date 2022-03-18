@@ -13,6 +13,12 @@ setup: |-
 ---
 David Bond was thinking about Graham Raymond again. Graham was a malicious deity with charming lips and pretty feet.
 
+<Author name="Some One" href="#" />
+
+```
+Hello There
+```
+
 David walked over to the window and reflected on his industrial surroundings. He had always loved backward Plymouth with its zealous, zesty zoos. It was a place that encouraged his tendency to feel calm.
 
 Then he saw something in the distance, or rather some*one*. It was the a malicious figure of Graham Raymond.
